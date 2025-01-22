@@ -103,26 +103,16 @@ Topics to Research:
 
 
 Phishing Email Detection:
-
-Pattern & Behavior Based Detection
-
-Header Based Analysis
-
-SMTPS & Domain Analysis
-
-Email Content Analysis & Filtering
-
-Certificate Verification & Validation
-
-URL Analysis & Filtering
-
-Email Authentication Techniques (SPF, DKIM, and DMARC)
-
-Restrict File Extensions
-
-Sender Profile Analysis
-
-Regex Filtering,IP, Domain & DNS Blacklisting
+- Pattern & Behavior Based Detection
+- Header Based Analysis
+- SMTPS & Domain Analysis
+- Email Content Analysis & Filtering
+- Certificate Verification & Validation
+- URL Analysis & Filtering
+- Email Authentication Techniques (SPF, DKIM, and DMARC)
+- Restrict File Extensions
+- Sender Profile Analysis
+- Regex Filtering,IP, Domain & DNS Blacklisting
 
 
 3.1 Data Collection
